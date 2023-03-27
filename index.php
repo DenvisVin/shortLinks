@@ -1,11 +1,4 @@
 <?
-function print_test($printed)
-{
-	echo '<pre>';
-	print_r($printed);
-	echo '</pre>';
-}
-
 include 'modules/Connect.php';
 include 'modules/UrlValidator.php';
 
